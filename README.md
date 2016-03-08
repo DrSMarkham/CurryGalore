@@ -1,0 +1,2 @@
+# CurryGalore
+Curried function
